@@ -1,0 +1,53 @@
+.title{
+  color: #02ccba;
+}
+.top-profile{
+  width:100%;
+  float:left;
+  margin-bottom:30px;
+  color:white;
+}
+.top-profile h1{
+  text-align:center;
+}
+.top-message{
+  width:30%;
+  margin:0 auto;
+  border:1px solid white;
+  padding:0px 3px;
+}
+.border{
+  border-bottom:1px solid white;
+}
+
+.rank{
+  width:100%;
+  background-image:url(https://2.bp.blogspot.com/-Q5FKq7DRwlk/WYAxmiMuJOI/AAAAAAABFuE/Y4mgM_PiiOU3BmZPPcK8MECrNU8iwT0tACLcBGAs/s800/bg_yozora_night_sky.jpg);
+  background-size:cover;
+  color:white;
+}
+.rank h2{
+  text-align:center;
+  letter-spacing:5px;
+}
+.top{
+  float:left;
+  width:20%;
+  text-align:center;
+}
+.top img {
+  width:80%;
+  margin:0 auto;
+  height:300px;
+  margin:20px;
+}
+a{
+  color:white;
+  text-decoration: none;
+}
+a:hover{
+  color:red;
+}
+a:active{
+  color:pink;
+}
